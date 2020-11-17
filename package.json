@@ -11,7 +11,7 @@
   "devDependencies": {
     "bluebird": "^3.5.2",
     "dotenv": "^6.1.0",
-    "mocha": "^5.2.0",
+    "mocha": "^8.2.1",
     "request": "^2.60.0",
     "xml2js": "^0.4.9"
   },
